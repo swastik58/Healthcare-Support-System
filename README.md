@@ -1,4 +1,4 @@
-###  Traffic-Light-Automation
+###  Healthcare Support System
 
 The idea of the project is to help the patient’s needs inside a hospital, using Mediapipe, OpenCV and Arduino UNO. 
 We have taken the idea of hand-tracking using the Mediapipe Library to count the number of  fingers to light up the LED's. 
